@@ -3,8 +3,8 @@
  Here you'll find a comprehensive collection of Data Structures and Algorithms (DSA) codes, ranging from fundamental topics like Arrays to advanced concepts like Dynamic Programming.
 
  ## Topics Covered 📚
-* 0. java Basics
-* 1. Arrays
+* 0_java Basics
+* 1_Arrays
 * 2. Sorting Algorithms
 * 3. 2D Arrays
 * 4. String
