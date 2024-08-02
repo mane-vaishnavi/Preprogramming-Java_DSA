@@ -3,18 +3,18 @@
  Here you'll find a comprehensive collection of Data Structures and Algorithms (DSA) codes, ranging from fundamental topics like Arrays to advanced concepts like Dynamic Programming.
 
  ## Topics Covered 📚
-* 0_java Basics
-* 1_Arrays
-* 2. Sorting Algorithms
-* 3. 2D Arrays
-* 4. String
-* 5. Bit Manipulation
-* 6. Oops
-* 7. Recursion
-* 8. Divide & conquer
-* 9. Backtracking
-* 10. ArrayList
-* 11. Linked Lists
+* java Basics
+* Arrays
+* Sorting Algorithms
+* 2D Arrays
+* String
+* Bit Manipulation
+* Oops
+* Recursion
+* Divide & conquer
+* Backtracking
+* ArrayList
+* Linked Lists
 * other advances topics will be coverd and upload the soon....
 
 ### How to Use This Repository 
