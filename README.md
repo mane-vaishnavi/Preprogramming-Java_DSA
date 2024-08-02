@@ -2,8 +2,8 @@
 
  Here you'll find a comprehensive collection of Data Structures and Algorithms (DSA) codes, ranging from fundamental topics like Arrays to advanced concepts like Dynamic Programming.
 
-Topics Covered 📚
-Arrays
+* Topics Covered 📚
++ Arrays
 Linked Lists
 2D Arrays
 String
