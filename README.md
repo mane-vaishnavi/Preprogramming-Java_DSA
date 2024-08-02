@@ -30,5 +30,5 @@
 ### Connect with Me 🌐
 Let's connect and collaborate..!
 
-LinkedIn: https://www.linkedin.com/in/vaishnavi-mane <br>
+LinkedIn: https://www.linkedin.com/in/vaishnavi-mane-558b88283/ <br>
 Happy coding! 🚀
