@@ -13,7 +13,6 @@
 * Searching Algorithms
 * Recursion
 * Dynamic Programming
-
 other advances topics will be coverd and upload the soon....
 
 ### How to Use This Repository 
@@ -30,5 +29,4 @@ other advances topics will be coverd and upload the soon....
 Let's connect and collaborate..!
 
 LinkedIn: https://www.linkedin.com/in/vaishnavi-mane
-
 Happy coding! 🚀
