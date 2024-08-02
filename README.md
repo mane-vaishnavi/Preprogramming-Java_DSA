@@ -28,5 +28,5 @@ other advances topics will be coverd and upload the soon....
 ###  Connect with Me 🌐
 Let's connect and collaborate..!
 
-LinkedIn: https://www.linkedin.com/in/vaishnavi-mane
+LinkedIn: https://www.linkedin.com/in/vaishnavi-mane <br>
 Happy coding! 🚀
