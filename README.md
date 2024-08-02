@@ -12,7 +12,7 @@
 * Sorting Algorithms
 * Searching Algorithms
 * Recursion
-* Dynamic Programming
+* Dynamic Programming<br>
 other advances topics will be coverd and upload the soon....
 
 ### How to Use This Repository 
