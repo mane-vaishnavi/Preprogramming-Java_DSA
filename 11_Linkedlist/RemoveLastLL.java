@@ -129,7 +129,7 @@ public int removeLast(){
        ll.removeFrist();                                                       
        ll.print();
 
-       ll.removeLast();                                                    //ans =  2--> 3--> 4--> null         3   
+       ll.removeLast();                                                       
        ll.print();
        System.out.println(ll.size);
     }

@@ -83,8 +83,8 @@ public class LLPalindrome {
         return slow;   //slow is my midNode
     }
 
-    public boolean checkPalindrome(){                                            //ans = 1--> 2--> 2--> 1--> null
-        if (head == null || head.next == null) {                                 //      true
+    public boolean checkPalindrome(){                                            
+        if (head == null || head.next == null) {                                
             return true;
         }
         //step1 - find mid

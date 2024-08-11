@@ -102,7 +102,7 @@ public class RemoveFirstLL {
        ll.add(2, 3);
 
        ll.print(); // 1--> 2--> 3--> 4--> 5--> null   5
-       ll.removeFrist();                                                    //ans = 2--> 3--> 4--> 5--> null     
+       ll.removeFrist();                                                       
        ll.print();
     }
 }
