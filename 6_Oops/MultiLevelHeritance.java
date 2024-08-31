@@ -1,12 +1,5 @@
 
-public class MultiLevelHeritance {
-    public static void main(String[] args) {
-        Dog dobby = new Dog();
-       dobby.eat();
-        dobby.legs= 4;
-        System.out.println(dobby.legs);                 
-    }
-}
+
     //base class
     class Aanimal{
         String color;
@@ -26,3 +19,11 @@ public class MultiLevelHeritance {
    class Dog extends Mammal{
     String breed;
    }
+   public class MultiLevelHeritance {
+    public static void main(String[] args) {
+        Dog dobby = new Dog();
+       dobby.eat();
+        dobby.legs= 4;
+        System.out.println(dobby.legs);                 
+    }
+}
